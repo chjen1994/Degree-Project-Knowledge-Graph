@@ -1,0 +1,37 @@
+{
+  "@context": {
+    "goog": "http://schema.googleapis.com/",
+    "resultScore": "goog:resultScore",
+    "detailedDescription": "goog:detailedDescription",
+    "kg": "http://g.co/kg",
+    "EntitySearchResult": "goog:EntitySearchResult",
+    "@vocab": "http://schema.org/"
+  },
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "result": {
+        "url": "http://www.blackrock.com/",
+        "detailedDescription": {
+          "url": "https://en.wikipedia.org/wiki/BlackRock",
+          "articleBody": "BlackRock, Inc. is an American global investment management corporation based in New York City. Founded in 1988, initially as a risk management and fixed income institutional asset manager, BlackRock is the world's largest asset manager, with $7.4 trillion in assets under management as of end-Q4 2019. ",
+          "license": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
+        },
+        "image": {
+          "contentUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5GFcnZ8TUkX5v7MdVbzdlHjM7j0--Adv4yzVxefEX4BDL_Sxo",
+          "url": "https://commons.wikimedia.org/wiki/File:BlackRock_wordmark.svg"
+        },
+        "@type": [
+          "Organization",
+          "Corporation",
+          "Thing"
+        ],
+        "name": "BlackRock",
+        "@id": "kg:/m/06qnpn",
+        "description": "Investment management company"
+      },
+      "@type": "EntitySearchResult",
+      "resultScore": 5958.30615234375
+    }
+  ]
+}
